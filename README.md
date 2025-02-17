@@ -10,7 +10,8 @@ Se creó el backend de un blog, gestionado mediante una **API REST** que permite
 Además, se implementó un sistema de autenticación con **JWT** para el inicio de sesión y el registro de nuevos usuarios.  
 
 
-
+<br>
+<br>
 
 
 ## 🛠️ Tecnologías Utilizadas
@@ -20,7 +21,8 @@ Además, se implementó un sistema de autenticación con **JWT** para el inicio 
 - 📄 Swagger (documentación automática
 
 
-
+<br>
+<br>
 
 
 ## ⚙️ Instalación
@@ -41,16 +43,15 @@ Además, se implementó un sistema de autenticación con **JWT** para el inicio 
    python manage.py migrate
    ```
 
-
-
+<br>
+<br>
 
 
 ## 🚀 Cómo Usarlo
 Dado que este proyecto corresponde al backend de un blog, se recomienda utilizar herramientas como Postman o Insomnia para interactuar con los endpoints.
 
-
-
-
+<br>
+<br>
 
 ## 📑 Documentación
 El proyecto incluye documentación automática mediante Swagger.
@@ -59,8 +60,8 @@ Puedes acceder a ella a través de:
 Swagger UI: /swagger/
 ReDoc: /redoc/
 
-
-
+<br>
+<br>
 
 
 ## 🤝 Contribución
