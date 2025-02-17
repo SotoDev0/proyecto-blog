@@ -56,9 +56,8 @@ Dado que este proyecto corresponde al backend de un blog, se recomienda utilizar
 ## 📑 Documentación
 El proyecto incluye documentación automática mediante Swagger.
 Puedes acceder a ella a través de:
-
-Swagger UI: /swagger/
-ReDoc: /redoc/
+- Swagger UI: /swagger/
+- ReDoc: /redoc/
 
 <br>
 <br>
