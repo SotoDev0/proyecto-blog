@@ -9,7 +9,8 @@ Se creó el backend de un blog, gestionado mediante una **API REST** que permite
 
 Además, se implementó un sistema de autenticación con **JWT** para el inicio de sesión y el registro de nuevos usuarios.  
 
----
+
+
 
 ## ⚙️ Instalación
 
@@ -28,5 +29,33 @@ Además, se implementó un sistema de autenticación con **JWT** para el inicio 
    ```
    python manage.py migrate
    ```
+
+
+
+
+## 🚀 Cómo Usarlo
+Dado que este proyecto corresponde al backend de un blog, se recomienda utilizar herramientas como Postman o Insomnia para interactuar con los endpoints.
+
+
+## 📑 Documentación
+El proyecto incluye documentación automática mediante Swagger.
+Puedes acceder a ella a través de:
+
+Swagger UI: /swagger/
+ReDoc: /redoc/
+
+
+## 🤝 Contribución
+¡Toda opinión o sugerencia es bienvenida! 😊
+Este proyecto fue creado con fines educativos mientras aprendo Django Rest Framework y el desarrollo de APIs.
+
+
+
+
+
+
+
+
+
 
 
