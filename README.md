@@ -12,6 +12,17 @@ Además, se implementó un sistema de autenticación con **JWT** para el inicio 
 
 
 
+
+## 🛠️ Tecnologías Utilizadas
+- 🐍 Python
+- 🌐 Django Rest Framework
+- 🔐 JWT (JSON Web Tokens)
+- 📄 Swagger (documentación automática
+
+
+
+
+
 ## ⚙️ Instalación
 
 1. **Clonar el repositorio:**  
@@ -33,8 +44,12 @@ Además, se implementó un sistema de autenticación con **JWT** para el inicio 
 
 
 
+
 ## 🚀 Cómo Usarlo
 Dado que este proyecto corresponde al backend de un blog, se recomienda utilizar herramientas como Postman o Insomnia para interactuar con los endpoints.
+
+
+
 
 
 ## 📑 Documentación
@@ -43,6 +58,9 @@ Puedes acceder a ella a través de:
 
 Swagger UI: /swagger/
 ReDoc: /redoc/
+
+
+
 
 
 ## 🤝 Contribución
